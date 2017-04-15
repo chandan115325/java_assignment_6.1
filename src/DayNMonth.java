@@ -94,7 +94,9 @@ public class DayNMonth {
 			default:
 				System.out.println("chose the option.");
 				break;
+		}
+		
+		
 	}
-}
 
 }
