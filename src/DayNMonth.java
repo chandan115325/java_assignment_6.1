@@ -15,6 +15,8 @@ public class DayNMonth {
 		
 		input = sc.nextInt();
 		
+		//to check the month and the days in that month
+		
 		switch(input)
 		{
 			case 1:
